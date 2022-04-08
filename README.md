@@ -47,8 +47,9 @@ graph LR;
 
 ### 服务器开发进度面板
 
-群组服：https://github.com/snjjnlk/XD_RiFriends_Publish/projects/1
+群组服：https://github.com/Great-Single/XD_RiFriends_Publish/projects/1
 
+<<<<<<< Updated upstream
 战争服：https://github.com/snjjnlk/XD_RiFriends_Publish/projects/2
 
 ## 注册账号相关帮助
@@ -66,3 +67,6 @@ graph LR
 
 ## 特别鸣谢
 
+=======
+战争服：https://github.com/Great-single/XD_RiFriends_Publish/projects/2
+>>>>>>> Stashed changes
